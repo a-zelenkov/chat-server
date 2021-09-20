@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://chat-api.somee.com/www.chat-api.somee.com</_PublishTargetUrl>
+    <History>True|2021-09-19T10:41:35.9344873Z;True|2021-09-19T13:27:10.4209392+03:00;True|2021-09-19T12:58:44.2011326+03:00;True|2021-09-19T12:37:51.8618942+03:00;True|2021-09-19T12:26:13.0794615+03:00;True|2021-09-19T11:34:43.7675217+03:00;True|2021-09-19T10:51:05.8777432+03:00;True|2021-09-17T23:47:05.8179411+03:00;True|2021-09-17T22:59:36.3512895+03:00;True|2021-09-17T22:54:17.9252223+03:00;False|2021-09-17T22:50:28.8774319+03:00;False|2021-09-17T22:41:06.9937254+03:00;True|2021-09-17T22:08:54.0254379+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/13/2021 22:22:41</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/19/2021 12:21:22</publishTime>
+    </File>
+    <File Include="Aspose.Words.dll">
+      <publishTime>09/02/2021 09:31:42</publishTime>
+    </File>
+    <File Include="Aspose.Words.Pdf2Word.dll">
+      <publishTime>09/02/2021 08:13:16</publishTime>
+    </File>
+    <File Include="chat.sssu.deps.json">
+      <publishTime>09/19/2021 13:36:09</publishTime>
+    </File>
+    <File Include="chat.sssu.dll">
+      <publishTime>09/19/2021 13:35:08</publishTime>
+    </File>
+    <File Include="chat.sssu.exe">
+      <publishTime>09/19/2021 13:35:08</publishTime>
+    </File>
+    <File Include="chat.sssu.pdb">
+      <publishTime>09/19/2021 13:35:08</publishTime>
+    </File>
+    <File Include="chat.sssu.runtimeconfig.json">
+      <publishTime>09/19/2021 10:46:35</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 02:24:48</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:34:56</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>07/15/2021 12:53:18</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>07/15/2021 12:53:34</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>07/15/2021 12:53:38</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>07/15/2021 12:54:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/15/2021 22:12:46</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>05/18/2020 23:11:54</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/19/2019 02:39:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/19/2019 02:40:20</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/19/2019 02:41:02</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/19/2019 02:48:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/19/2019 02:43:40</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/20/2017 23:03:18</publishTime>
+    </File>
+    <File Include="runtimes/osx/native/libSkiaSharp.dylib">
+      <publishTime>07/14/2020 06:12:06</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 02:25:12</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/libSkiaSharp.dll">
+      <publishTime>07/14/2020 06:12:14</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:35:06</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/libSkiaSharp.dll">
+      <publishTime>07/14/2020 06:12:14</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/libSkiaSharp.dll">
+      <publishTime>07/14/2020 06:12:16</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>08/25/2020 23:34:56</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb">
+      <publishTime>08/25/2020 23:31:56</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>08/26/2020 02:24:48</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 11:53:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 11:53:46</publishTime>
+    </File>
+    <File Include="SkiaSharp.dll">
+      <publishTime>07/14/2020 06:12:10</publishTime>
+    </File>
+    <File Include="Spire.Doc.dll">
+      <publishTime>09/15/2021 05:56:56</publishTime>
+    </File>
+    <File Include="Spire.License.dll">
+      <publishTime>09/14/2021 13:31:40</publishTime>
+    </File>
+    <File Include="Spire.Pdf.dll">
+      <publishTime>09/15/2021 05:56:58</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 11:37:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/12/2020 05:40:42</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/19/2019 02:38:18</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>11/15/2019 11:37:36</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 11:37:42</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/19/2021 13:36:10</publishTime>
+    </File>
+    <File Include="wwwroot/Files/Docs/[19.09.2021 11-28-30] test.docx">
+      <publishTime>09/19/2021 11:28:30</publishTime>
+    </File>
+    <File Include="wwwroot/Files/Previews/[19.09.2021 11-28-30] test.png">
+      <publishTime>09/19/2021 11:28:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
